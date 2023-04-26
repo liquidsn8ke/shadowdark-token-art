@@ -1,10 +1,12 @@
 {
-  "id": "shadowdark-art-template",
-  "title": "Shadowdark - Art Replacament",
+  "id": "shadowdark-token-art",
+  "title": "Shadowdark-Token-Art",
   "description": "Module that adds additional artwork pack to the token image replacer implemted in Shadowdark RPG for Foundry VTT.",
   "authors": [
     {
-    "name": "bakbakbakbakbak"
+    "name": "bakbakbakbakbak",
+            "liquidsn8ke",
+            "futurewolf",
     }
     ],
   "version": "1.0.0",
@@ -23,8 +25,8 @@
     }]
   },
   "flags": {
-    "shadowdark-art-template": {
-      "shadowdark-art": "modules/shadowdark-art-template/mappings/map-template.json"
+    "shadowdark-token-art": {
+      "shadowdark-art": "modules/shadowdark-token-art/mappings/map-template.json"
     }
   }
 }
